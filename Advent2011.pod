@@ -161,7 +161,11 @@ This creates a L<Plack::Middleware::Debug> console that addes your querylog
 report to the default list of panels.  If you run your application you should
 get a debug console similar to this one:
 
-    # TODO Image
+=begin xhtml
+
+<img src="https://github.com/jjn1056/Catalyst-Advent2011-DebugQueryLog/raw/master/querylog.png" />
+
+=end xhtml
 
 =head2 Control and Tweaks
 
